@@ -5,5 +5,9 @@ rana branchendeyim push yapıcam
 
 
 
+pull deniyelim
+
+
 
 Ne yapiyim hocam
+
